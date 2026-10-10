@@ -1,9 +1,0 @@
-{
-  "name": "nebo-nad-ukrainoy",
-  "version": "1.3.0",
-  "private": true,
-  "description": "Небо над Украиной: браузерная игра ПВО с таблицей лидеров и счётчиком онлайна",
-  "main": "server.js",
-  "scripts": { "start": "node server.js" },
-  "engines": { "node": ">=18" }
-}
